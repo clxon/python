@@ -29,7 +29,7 @@ $ python hello.py
 
 Linux和Mac 用包管理器安装。
 
-[上一篇](https://clxon.github.io/python)																				[下一篇](https://clxon.github.io/python/2)
+[上一篇](https://clxon.github.io/python) [下一篇](https://clxon.github.io/python/3)
 
 
 

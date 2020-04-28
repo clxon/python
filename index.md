@@ -20,5 +20,5 @@ Python读取Python脚本的内容，然后一行行执行！
 
 不是，是脚本大哥！
 
-​															[下一篇](https://clxon.github.io/python/2)
+​[下一篇](https://clxon.github.io/python/2)
 
