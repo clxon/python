@@ -27,7 +27,25 @@ $ python hello.py
 
 记得勾选`Add Python to PATH`这个选项。这样你就安装完成了！
 
-Linux和Mac 用包管理器安装。
+emmmm，Linux安装Python:
+
+```bash
+$ sudo apt install python3
+```
+
+Mac 安装Python:
+
+```bash
+$ brew install python@3
+```
+
+Mac 安装brew:
+
+```bash
+$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+```
+
+注：Linux和Mac如果有`python3`这个命令，就不要用`python`，用这个。
 
 [上一篇](https://clxon.github.io/python) [下一篇](https://clxon.github.io/python/3)
 
